@@ -2,6 +2,10 @@
 
 **Garden Hop** is a charming 2D platformer game developed in Unity by me and my friend Ramy Bepawy. Inspired by beginner-friendly platformer tutorials, the game features smooth player movement, animations, multiple levels, sound effects, and a polished user interface.
 
+## 📺 Gameplay Demo
+
+[![Watch the video](https://img.youtube.com/vi/gN25c7vnGQ4/hqdefault.jpg)](https://www.youtube.com/watch?v=gN25c7vnGQ4)
+
 ## 🎮 Game Overview
 
 Hop through colorful garden environments, avoid obstacles, and complete levels while enjoying relaxing gameplay and cheerful audio.
@@ -22,7 +26,7 @@ Hop through colorful garden environments, avoid obstacles, and complete levels w
 ## 🧑‍💻 Contributions
 
 - **Ramy Bepawy**: Core gameplay logic, movement, animations, and level design  
-- **Anas Alamir**: User interface (menus, HUD), sound integration, polish and enhancements
+- **Anas Alamir**: User interface (menus, HUD), sound integration, scouring system, polish and enhancements
 
 ## 🚀 Getting Started
 
